@@ -1,2 +1,8 @@
 # QQMsgList
-Using Win22 ListBox to realize QQ MsgList style
+Using Win32 ListBox to realize QQ MsgList style
+
+![P1](pic/P1.png)
+
+![P2](pic/P2.png)
+
+![P3](pic/P3.png)
